@@ -16,5 +16,8 @@
     "url": "https://github.com/musashi0128/ts-for-js-dev/issues"
   },
   "homepage": "https://github.com/musashi0128/ts-for-js-dev#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
